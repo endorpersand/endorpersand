@@ -2,7 +2,7 @@
 
 - 😵‍💫 Terminally obsessed with language design
 - 🚧 Working on... *things*
-- ⌨️ `X;ukhan-CM EFW!` (`Le o;i drkjf fkj hljifkd fsoljg f; ckx;ck fmld, L'h j;f d;sso. P)`)
+- ⌨️ `X;ukhaj-CM EFW!` (`Le o;i drkjf fkj hljifkd fsoljg f; ckx;ck fmld, L'h j;f d;sso. P) <3`)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endorpersand&theme=apprentice&bg_color=45,262646,262626)](https://github.com/anuraghazra/github-readme-stats)
 
