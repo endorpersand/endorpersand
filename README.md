@@ -4,9 +4,9 @@
 - 🚧 Working on... *things*
 - ⌨️ `X;ukhan-CM EFW!` (`Le o;i drkjf fkj hljifkd fsoljg f; ckx;ck fmld, L'h j;f d;sso. P) <3`)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endorpersand&theme=apprentice&bg_color=45,262646,262626)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endorpersand&theme=dark&layout=donut&exclude_repo=buddy-baeren)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=endorpersand&theme=apprentice&hide_rank=true&show_icons=true&bg_color=45,262646,262626)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=endorpersand&theme=dark&hide_rank=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⬇️ Check out some projects ⬇️
 <!--
